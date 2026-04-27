@@ -1,3 +1,6 @@
+
+![Visitors](https://api.visitorbadge.io/api/visitors?repo=jmdb9mk67v-beep.FortniteGame&labelColor=%2323272a&countColor=%237289da&style=flat-square)
+
 # Fortnite Battle Royale — Java Edition
 **Developer:** Lam Nguyen  
 **Module:** (Lam_Java_4)
