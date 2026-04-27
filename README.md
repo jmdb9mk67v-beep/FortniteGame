@@ -1,5 +1,10 @@
 
-![Visitors](https://api.visitorbadge.io/api/visitors?repo=jmdb9mk67v-beep.FortniteGame&labelColor=%2323272a&countColor=%237289da&style=flat-square)
+![Visitors](https://hits.seeyoufarm.com/
+api/count/incr/badge.svg?url=https%3A
+%2F%2Fgithub.com%2Fjmdb9mk67v-beep%2F
+FortniteGame&count_bg=%237289da&title_
+bg=%2323272a&icon=&icon_color=%23E7E7
+E7&title=Visitors&edge_flat=true)
 
 # Fortnite Battle Royale — Java Edition
 **Developer:** Lam Nguyen  
